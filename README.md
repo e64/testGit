@@ -1,1 +1,3 @@
 # test Git
+
+configure repo
